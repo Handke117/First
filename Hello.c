@@ -3,7 +3,7 @@
 main()
 
 {
-    printf("GitHub Hello");
-    printf("Teraz powinno działać");
+    printf("GitHub Hello\n");
+    printf("Teraz powinno działać\n");
     return 0;
 }
